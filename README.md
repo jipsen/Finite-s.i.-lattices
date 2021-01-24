@@ -2,7 +2,7 @@
 
 This repository contains all nontrivial subdirectly irreducible (s.i.) lattices up to isomorphism of cardinality up to 12. 
 
-The file si_lattices_2-10_2554.txt contains all 2555 s.i. lattices of cardinality 2 to 10.
+The file si_lattices_2-10_2555.txt contains all 2555 s.i. lattices of cardinality 2 to 10.
 
 The file si_lattices_11_13867.txt contains all 13867 s.i. lattices of cardinality 11.
 
